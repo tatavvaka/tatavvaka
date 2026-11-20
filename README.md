@@ -1,56 +1,56 @@
 # Hi, I'm Tata Ivanka 👋
 
-**Information Systems Student at Universitas Negeri Surabaya (UNESA)**  
-Interested in **Data Analytics, Data Science, and Business Intelligence**.
+**Mahasiswa S1 Sistem Informasi di Universitas Negeri Surabaya (UNESA)**  
+Tertarik pada **Data Analytics, Data Science, dan Business Intelligence**.
 
-I’m building my portfolio through academic, personal, and collaborative projects. My work so far explores how data can be prepared, analyzed, visualized, and translated into useful insights — from Python-based EDA and statistical exercises to relational database design and interactive dashboards.
+Saya sedang membangun portfolio melalui proyek akademik, personal, dan kolaboratif. Fokus pekerjaan saya sejauh ini mencakup data preparation, Exploratory Data Analysis (EDA), statistical exercises, data visualization, relational database design, dan interactive dashboards.
 
 ## Areas of Interest
 
-- Data Analytics and Exploratory Data Analysis (EDA)
-- Data Visualization and Business Intelligence
-- Statistics, Probability, and Hypothesis Testing
-- Relational Database Design and SQL
-- Applied Machine Learning concepts
+- Data Analytics dan Exploratory Data Analysis (EDA)
+- Data Visualization dan Business Intelligence
+- Statistics, Probability, dan Hypothesis Testing
+- Relational Database Design dan SQL
+- Applied Machine Learning
 
 ## Featured Projects
 
 ### [Bike Sharing Analysis](https://github.com/tatavvaka/Bike-Sharing-Analysis)
-An analysis of Capital Bikeshare rental patterns (2011–2012) using Python. The project covers data quality checks, EDA, working-day vs. non-working-day patterns, peak rental hours, monthly trends, and an interactive Streamlit dashboard.
+Analisis pola penyewaan Capital Bikeshare periode 2011–2012 menggunakan Python. Project ini mencakup data quality checks, EDA, perbandingan working days dan non-working days, peak rental hours, monthly trends, serta interactive dashboard menggunakan Streamlit.
 
 [Open the live dashboard](https://tatavvaka-bike-sharing.streamlit.app/)
 
 ### [Mathematics for Data Science](https://github.com/tatavvaka/Matematika-Data-Science)
-A hands-on Python learning project covering probability distributions, Naive Bayes classification with synthetic data, statistical hypothesis testing, and A/B testing scenarios. Simulated results are documented as learning exercises, not real-world user experiments.
+Learning project untuk memperkuat fondasi matematika dan statistik dalam Data Science. Materinya mencakup probability distributions, Naive Bayes dengan synthetic data, statistical hypothesis testing, dan skenario A/B testing. Hasil simulasi dijelaskan sebagai latihan, bukan eksperimen terhadap pengguna nyata.
 
 ### [PAKET.In — Relational Database Project](https://github.com/tatavvaka/PAKET.In_KEL7)
-An academic PostgreSQL 16 project that models an expedition-delivery scenario. It includes a nine-table relational schema, referential-integrity constraints, master-tariff pricing triggers, four transaction-data scales, 15 nested SQL queries, and automated database validation.
+Proyek akademik PostgreSQL 16 untuk memodelkan skenario layanan ekspedisi. Implementasinya mencakup relational schema sembilan tabel, referential-integrity constraints, master-tariff pricing triggers, empat skala data transaksi, 15 nested SQL queries, dan automated database validation.
 
 ## Collaborative Projects
 
 ### [Air Quality Analysis — Data Mining](https://github.com/tatavvaka/UAS_DataMining_Kelompok-14_KDD1)
-A group project at UNESA applying the CRISP-DM methodology to an air-quality analysis application, with Random Forest classification, K-Means clustering, and a Streamlit interface. See the repository for the team scope and implementation details.
+Proyek kelompok di UNESA yang menerapkan metodologi CRISP-DM untuk aplikasi analisis kualitas udara, dengan Random Forest classification, K-Means clustering, dan antarmuka Streamlit. Detail ruang lingkup dan pembagian kerja mengikuti dokumentasi tim.
 
 ### [Jajan Meter](https://github.com/tatavvaka/jajan-meter)
-A collaborative Flutter and Firebase mobile application for tracking student daily spending. My documented team role is **Front-End and State Management**.
+Aplikasi mobile kolaboratif menggunakan Flutter dan Firebase untuk pencatatan pengeluaran harian mahasiswa. Peran saya terdokumentasi pada **Front-End dan State Management**, termasuk pengelolaan state transaksi dan alur UI.
 
 ## Tools & Technologies
 
-**Languages**  
+**Programming**  
 Python · SQL · Dart
 
 **Data Analysis & Statistics**  
-Pandas · NumPy · Matplotlib · SciPy · Jupyter Notebook
+Pandas · NumPy · Matplotlib · SciPy · Scikit-learn · Jupyter Notebook
 
-**Database, BI & Applications**  
-PostgreSQL · Excel · Power BI · Streamlit · Flutter · Firebase
+**Database & Applications**  
+PostgreSQL · Streamlit · Flutter · Firebase
 
 **Workflow**  
-Git · GitHub
+Git · GitHub · GitHub Actions
 
 ## Learning Focus
 
-I’m continuing to strengthen my foundations in data analysis, statistical reasoning, database management, and clear technical documentation. I value careful data-quality checks, reproducible analysis, and interpretations that stay close to the evidence.
+Saya terus memperkuat fondasi data analysis, statistical reasoning, database management, dan technical documentation. Saya mengutamakan data-quality checks, reproducible analysis, serta interpretasi yang tetap sesuai dengan bukti dan keterbatasan data.
 
 ## Connect
 
@@ -59,4 +59,4 @@ I’m continuing to strengthen my foundations in data analysis, statistical reas
 
 ---
 
-*This profile showcases a mix of personal learning, academic, and collaborative work. Team projects are labeled as collaborative, and each repository contains its own scope and supporting documentation.*
+*Profil ini menampilkan kombinasi personal learning, academic projects, dan collaborative work. Proyek kelompok diberi label secara terpisah agar ruang lingkup kontribusi tetap jelas.*
