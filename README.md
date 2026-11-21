@@ -31,19 +31,16 @@ Proyek akademik PostgreSQL 16 untuk memodelkan skenario layanan ekspedisi. Imple
 ### [Air Quality Analysis — Data Mining](https://github.com/tatavvaka/UAS_DataMining_Kelompok-14_KDD1)
 Proyek kelompok di UNESA yang menerapkan metodologi CRISP-DM untuk aplikasi analisis kualitas udara, dengan Random Forest classification, K-Means clustering, dan antarmuka Streamlit. Detail ruang lingkup dan pembagian kerja mengikuti dokumentasi tim.
 
-### [Jajan Meter](https://github.com/tatavvaka/jajan-meter)
-Aplikasi mobile kolaboratif menggunakan Flutter dan Firebase untuk pencatatan pengeluaran harian mahasiswa. Peran saya terdokumentasi pada **Front-End dan State Management**, termasuk pengelolaan state transaksi dan alur UI.
-
 ## Tools & Technologies
 
 **Programming**  
-Python · SQL · Dart
+Python · SQL
 
 **Data Analysis & Statistics**  
 Pandas · NumPy · Matplotlib · SciPy · Scikit-learn · Jupyter Notebook
 
 **Database & Applications**  
-PostgreSQL · Streamlit · Flutter · Firebase
+PostgreSQL · Streamlit
 
 **Workflow**  
 Git · GitHub · GitHub Actions
